@@ -8,7 +8,7 @@ Para utilizar este programa, primero es necesario descargar el archivo `Encripta
 
 ## Uso
 
-Para utilizar el programa, simplemente abra una terminal en el directorio donde se encuentra el archivo `proyecto_encriptador.py` y escriba:
+Para utilizar el programa, simplemente abra una terminal en el directorio donde se encuentra el archivo `Encriptador-Desencriptador.py` y escriba:
 
 ```
 python Encriptador-Desencriptador.py
