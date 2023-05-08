@@ -11,7 +11,7 @@ Para utilizar este programa, primero es necesario descargar el archivo `Encripta
 Para utilizar el programa, simplemente abra una terminal en el directorio donde se encuentra el archivo `proyecto_encriptador.py` y escriba:
 
 ```
-Encriptador-Desencriptador.py
+python Encriptador-Desencriptador.py
 ```
 
 A continuación, aparecerá un menú que le permitirá elegir entre varias opciones:
