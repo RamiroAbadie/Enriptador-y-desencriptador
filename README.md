@@ -4,14 +4,15 @@ Este proyecto es un programa que encripta en formato de sustitucion simple de ca
 
 ## Instalación
 
-Para utilizar este programa, primero es necesario descargar el archivo `proyecto_encriptador.py` desde este repositorio.
+Para utilizar este programa, primero es necesario descargar el archivo `Encriptador-Desencriptador.py` desde este repositorio.
 
 ## Uso
 
 Para utilizar el programa, simplemente abra una terminal en el directorio donde se encuentra el archivo `proyecto_encriptador.py` y escriba:
 
-python proyecto_encriptador.py
-
+```
+Encriptador-Desencriptador.py
+```
 
 A continuación, aparecerá un menú que le permitirá elegir entre varias opciones:
 
